@@ -11,4 +11,3 @@ capitals_dict = {
 	"Georgia": "Atlanta",
 
 }
-
